@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>it("${1:description}", function() {
-  $0
+	<string>it('${1:description}', function() {
+	$0
 });</string>
 	<key>name</key>
 	<string>it</string>

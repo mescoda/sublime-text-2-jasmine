@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>spyOn(${1:object}, "${2:method}").andReturn(${3:arguments});</string>
+	<string>spyOn(${1:object}, '${2:method}').andReturn(${3:arguments});</string>
 	<key>name</key>
 	<string>spy on and return</string>
 	<key>scope</key>

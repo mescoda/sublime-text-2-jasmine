@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>spyOn(${1:object}, "${2:method}").andThrow(${3:exception});</string>
+	<string>spyOn(${1:object}, '${2:method}').andThrow(${3:exception});</string>
 	<key>name</key>
 	<string>spy on and throw</string>
 	<key>scope</key>

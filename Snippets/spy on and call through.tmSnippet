@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>spyOn(${1:object}, "${2:method}").andCallThrough();</string>
+	<string>spyOn(${1:object}, '${2:method}').andCallThrough();</string>
 	<key>name</key>
 	<string>spy on and call through</string>
 	<key>scope</key>

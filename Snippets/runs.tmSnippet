@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>runs(function() {
-  $0
+	$0
 });</string>
 	<key>name</key>
 	<string>runs</string>
